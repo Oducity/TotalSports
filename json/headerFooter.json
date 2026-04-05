@@ -5,13 +5,6 @@
       "sitelogo": "../images/TotalSport-logo.webp"
     }
   ],
-  "nav": [
-    {
-        "home": "Home",
-        "sport": "Sports",
-        "contact": "Contact Us"
-    }
-  ],
   "wireframes": [
     {
       "name": "wireframe wide-view",
@@ -20,6 +13,64 @@
     {
       "name": "wireframe small-view",
       "url": "../images/wireframe-small.pdf"
+    }
+  ],
+  "completedcourses": [
+    {
+      "code": "CSE110",
+      "name": "Introduction to Progrmming",
+      "credit": 2,
+      "yeartaken": 2025,
+      "creditscored": 2,
+      "technologies": ["Python"]
+    },
+    {
+      "code": "CSE111",
+      "name": "Progrmming with Functions",
+      "credit": 2,
+      "yeartaken": 2025,
+      "creditscored": 2,
+      "technologies": ["Python", "git & github"]
+    },
+    {
+      "code": "WDD130",
+      "name": "Web Fundamentals",
+      "credit": 2,
+      "yeartaken": 2025,
+      "creditscored": 2,
+      "technologies": ["Html", "CSS", "git & github"]
+    },
+    {
+      "code": "CSE210",
+      "name": "Programming with Classes",
+      "credit": 2,
+      "yeartaken": 2025,
+      "creditscored": 2,
+      "technologies": ["C#", "git & github"]
+    },
+    {
+      "code": "WDD131",
+      "name": "Dynamic Web Fundamentals",
+      "credit": 2,
+      "yeartaken": 2025,
+      "creditscored": 2,
+      "technologies": ["Html", "CSS", "JavaScript", "git & github"]
+    },
+    {
+      "code": "WDD231",
+      "name": "Web Frontend Development I",
+      "credit": 2,
+      "yeartaken": 2025,
+      "creditscored": 2,
+      "technologies": ["Html", "CSS", "JavaScript", "git & github"]
+    },
+    {
+      "code": "WDD330",
+      "name": "Web Frontend Development II",
+      "credit": 2,
+      "yeartaken": 2025,
+      "creditscored": 2,
+      "technologies": ["Html", "CSS", "JavaScript", "Vite", "Trello", "Render", "git & github"]
     }
   ]
 }
