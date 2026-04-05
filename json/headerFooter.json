@@ -1,0 +1,25 @@
+{
+  "header": [
+    {
+        "name": "TotalSport",
+      "sitelogo": "../images/TotalSport-logo.webp"
+    }
+  ],
+  "nav": [
+    {
+        "home": "Home",
+        "sport": "Sports",
+        "contact": "Contact Us"
+    }
+  ],
+  "wireframes": [
+    {
+      "name": "wireframe wide-view",
+      "url": "../images/wireframe-large.pdf"
+    },
+    {
+      "name": "wireframe small-view",
+      "url": "../images/wireframe-small.pdf"
+    }
+  ]
+}
